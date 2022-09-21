@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\真气s\Desktop\harbour\main.cpp(14,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\真气s\Desktop\harbour\main.cpp(23,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\真气s\Desktop\harbour\main.cpp(36,27): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\真气s\Desktop\harbour\main.cpp(38,35): warning C4018: “<”: 有符号/无符号不匹配
+  harbour.vcxproj -> C:\Users\真气s\Desktop\harbour\x64\Debug\harbour.exe
